@@ -1,2 +1,1 @@
-# Num-rico
-Algoritimos usados em Cálculo numérico
+#algoritimos de interpolação 
